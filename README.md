@@ -1,2 +1,3 @@
-# Desafio-Dio
-Repositório criado para Desafio DIO
+# Desafio-DIO
+Repositório criado para Desafio de Git/GitHub da DIO.
+
